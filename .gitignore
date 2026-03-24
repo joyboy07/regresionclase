@@ -1,0 +1,12 @@
+# Entorno virtual (Lo más importante según las guías)
+.venv/
+
+# Dataset (Como solicitaste no subirlo)
+50_Startups.csv
+
+# Archivos temporales de Python y Jupyter
+__pycache__/
+.ipynb_checkpoints/
+
+# Otros archivos que no necesitas en la web
+*.ipynb
